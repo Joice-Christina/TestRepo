@@ -1,1 +1,2 @@
-Hi This is joys from DevOps
+#!/bin/bash
+echo "Hi"
